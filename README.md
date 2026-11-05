@@ -654,6 +654,8 @@ A walkthrough can be added here demonstrating all five report pages, KPI cards, 
 
 ---
 
+Video Link Here (https://drive.google.com/file/d/1GGCNcAaNcXkX0CruVuYf3RTzhFp3VIh4/view?usp=sharing)
+
 ### ⭐ Thank You For Visiting This Project ⭐
 
 Made with ❤️ using Microsoft Power BI
