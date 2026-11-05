@@ -646,7 +646,7 @@ A walkthrough can be added here demonstrating all five report pages, KPI cards, 
 
 # Yashvi Jasani
 
-[![GitHub](https://img.shields.io/badge/GitHub-priya_shihora-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyashihora)
+[![GitHub](https://img.shields.io/badge/GitHub-yashvi_jasani-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyashihora)
 
 **Asian Paints – Sales & Dealer Performance Dashboard | Power BI Project**
 
